@@ -11,3 +11,4 @@ torch
 pypdf
 python-docx
 docx2txt
+protobuf==3.20.3
