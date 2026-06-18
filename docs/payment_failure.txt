@@ -1,0 +1,23 @@
+Payment Failure Troubleshooting
+
+Payment transactions may fail due to various reasons.
+
+Common Causes:
+
+* Insufficient account balance.
+* Expired debit or credit card.
+* Incorrect payment information.
+* Bank restrictions.
+
+Recommended Actions:
+
+1. Verify card details.
+2. Ensure sufficient balance.
+3. Retry after 10 minutes.
+4. Contact your bank if necessary.
+
+Supported Payment Methods:
+
+* Credit Card
+* Debit Card
+* UPI

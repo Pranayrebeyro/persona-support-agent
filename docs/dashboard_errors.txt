@@ -1,0 +1,16 @@
+Dashboard Error Guide
+
+Users may experience dashboard loading issues because of:
+
+* Browser cache problems.
+* Internet connectivity issues.
+* Temporary server maintenance.
+
+Recommended Actions:
+
+1. Refresh the page.
+2. Clear browser cache.
+3. Use another browser.
+4. Verify internet connectivity.
+
+If problems continue, contact technical support.

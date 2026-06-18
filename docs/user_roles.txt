@@ -1,0 +1,25 @@
+User Roles and Permissions
+
+Admin
+
+* Full system access
+* User management
+* Security settings
+
+Manager
+
+* Team management
+* Report generation
+* Resource monitoring
+
+User
+
+* Standard access
+* Profile management
+* Basic operations
+
+Guest
+
+* Read-only access
+
+Permissions are controlled through role-based access policies.

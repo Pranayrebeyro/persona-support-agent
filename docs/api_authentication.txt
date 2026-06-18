@@ -1,0 +1,22 @@
+API Authentication Troubleshooting
+
+Common causes of authentication failures include:
+
+* Invalid API keys.
+* Expired access tokens.
+* Missing authorization headers.
+* Incorrect endpoint URLs.
+
+Troubleshooting Steps:
+
+1. Verify the API key.
+2. Generate a new access token.
+3. Ensure Bearer token format is correct.
+4. Review server logs.
+
+Common Errors:
+401 Unauthorized
+403 Forbidden
+429 Too Many Requests
+
+Rate limits apply to excessive requests.

@@ -1,0 +1,19 @@
+Security Policy
+
+User data is protected using industry-standard security practices.
+
+Security Measures:
+
+* Password encryption
+* Multi-factor authentication
+* Secure HTTPS communication
+* Role-based access control
+
+Recommendations:
+
+1. Use strong passwords.
+2. Enable MFA.
+3. Avoid sharing credentials.
+4. Review account activity regularly.
+
+Suspicious activities should be reported immediately.

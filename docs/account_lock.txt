@@ -1,0 +1,18 @@
+Account Lock Troubleshooting
+
+Accounts may be locked due to multiple failed login attempts or suspicious activity.
+
+Possible Causes:
+
+* Incorrect password entered repeatedly.
+* Security policies triggered.
+* Unusual login location detected.
+
+Resolution Steps:
+
+1. Wait 15 minutes before retrying.
+2. Reset your password.
+3. Verify your email address.
+4. Contact support if the issue persists.
+
+Locked accounts are automatically unlocked after the cooldown period unless flagged for security review.

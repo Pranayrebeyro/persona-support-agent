@@ -1,0 +1,24 @@
+Data Export Guide
+
+Users can export reports and account data in CSV, Excel, and PDF formats.
+
+Common Export Issues:
+
+* Large datasets exceeding size limits.
+* Browser interruptions during download.
+* Temporary server unavailability.
+
+Troubleshooting Steps:
+
+1. Reduce the selected date range.
+2. Apply filters to decrease file size.
+3. Retry the export after a few minutes.
+4. Use a stable internet connection.
+
+Supported Formats:
+
+* CSV
+* Excel (.xlsx)
+* PDF
+
+Exports are available only to authorized users.

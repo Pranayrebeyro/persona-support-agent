@@ -1,0 +1,27 @@
+Subscription Plans
+
+Available Plans:
+
+Basic Plan
+
+* Essential features
+* Monthly billing
+
+Pro Plan
+
+* Advanced features
+* Priority support
+* Increased API limits
+
+Enterprise Plan
+
+* Custom integrations
+* Dedicated support
+* High scalability
+
+Billing Options:
+
+* Monthly
+* Annual
+
+Plan upgrades take effect immediately.

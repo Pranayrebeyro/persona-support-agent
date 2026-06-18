@@ -1,0 +1,21 @@
+API Rate Limits
+
+Rate limits protect system performance and prevent abuse.
+
+Common Errors:
+
+* HTTP 429 Too Many Requests
+
+Recommendations:
+
+1. Reduce request frequency.
+2. Implement exponential backoff.
+3. Cache repeated responses.
+4. Upgrade subscription plan for higher limits.
+
+Default Limits:
+
+* 100 requests per minute
+* 5000 requests per day
+
+Exceeding limits temporarily blocks requests.

@@ -1,0 +1,19 @@
+Multi-Factor Authentication Setup
+
+MFA provides an additional layer of security.
+
+Setup Instructions:
+
+1. Go to Account Settings.
+2. Select Security Settings.
+3. Enable Multi-Factor Authentication.
+4. Scan the QR code using an authenticator app.
+5. Enter the verification code.
+
+Supported Applications:
+
+* Google Authenticator
+* Microsoft Authenticator
+* Authy
+
+Backup codes are generated after successful setup.

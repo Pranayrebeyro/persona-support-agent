@@ -1,0 +1,18 @@
+Email Verification Guide
+
+Email verification ensures account security and enables account recovery.
+
+Common Issues:
+
+* Verification email not received.
+* Email sent to spam folder.
+* Expired verification link.
+
+Resolution Steps:
+
+1. Check spam or junk folders.
+2. Verify the registered email address.
+3. Request a new verification email.
+4. Wait up to 5 minutes before retrying.
+
+Verification links expire after 24 hours.
